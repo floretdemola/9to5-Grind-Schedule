@@ -91,9 +91,9 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* The URL of the deployed application: https://floretdemola.github.io/9to5-Grind-Schedule/
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/floretdemola/9to5-Grind-Schedule
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
