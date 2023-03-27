@@ -2,8 +2,6 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 
-// var timeID = document.querySelectorAll(".time-block");
-// var timeline = [9, 10, 11, 12, 13, 14, 15, 16, 17];
 
 
 $(function () {
